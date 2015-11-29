@@ -1,0 +1,11 @@
+morningSky1.jpg:
+http://images.google.de/imgres?imgurl=https://c2.staticflickr.com/4/3351/3437441563_7196bf6ac5_b.jpg&imgrefurl=https://www.flickr.com/photos/virtually_supine/3437441563&h=493&w=1024&tbnid=6Rf4TIcrMdqmqM:&docid=dsForlFI03adUM&itg=1&ei=Y8dZVvHAGcG9UYr2jZgD&tbm=isch&iact=rc&uact=3&page=1&start=0&ndsp=17&ved=0ahUKEwix_rLVtrPJAhXBXhQKHQp7AzMQrQMIODAJ
+
+morningSky2.jpg:
+http://images.google.de/imgres?imgurl=https://c1.staticflickr.com/7/6139/6015876336_0ff3300fdb_b.jpg&imgrefurl=https://www.flickr.com/photos/16502322%40N03/6015876336&h=808&w=1024&tbnid=xe73RH_AiZTF_M:&docid=hKbA8tKzIHC3lM&ei=BMhZVquGL4rfUZm7iOAB&tbm=isch&iact=rc&uact=3&page=3&start=42&ndsp=25&ved=0ahUKEwirmKuit7PJAhWKbxQKHZkdAhwQrQMIqwEwLg
+
+nightSky1.jpg:
+http://images.google.de/imgres?imgurl=https://farm6.staticflickr.com/5236/5896162967_023fb686dc_o_d.jpg&imgrefurl=https://www.flickr.com/photos/dcysurfer/5896162967&h=1200&w=1800&tbnid=GQjmavHPBIsLJM:&docid=uN2FULQj7JtkNM&ei=fsZZVq2jDoGBU8G4heAC&tbm=isch&iact=rc&uact=3&page=3&start=38&ndsp=23&ved=0ahUKEwit2o7otbPJAhWBwBQKHUFcASwQrQMIvQEwNA
+
+nightSky2.jpg:
+http://images.google.de/imgres?imgurl=https://c1.staticflickr.com/7/6023/6006229474_7e48243f28_b.jpg&imgrefurl=https://www.flickr.com/photos/craightonmiller/6006229474&h=683&w=1024&tbnid=9bF_gP-VQv82WM:&docid=6CJclJnMGko2MM&itg=1&ei=fsZZVq2jDoGBU8G4heAC&tbm=isch&iact=rc&uact=3&page=3&start=38&ndsp=23&ved=0ahUKEwit2o7otbPJAhWBwBQKHUFcASwQrQMI1QEwPA
