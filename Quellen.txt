@@ -11,6 +11,10 @@ http://images.google.de/imgres?imgurl=https://farm6.staticflickr.com/5236/589616
 nightSky2.jpg:
 http://images.google.de/imgres?imgurl=https://c1.staticflickr.com/7/6023/6006229474_7e48243f28_b.jpg&imgrefurl=https://www.flickr.com/photos/craightonmiller/6006229474&h=683&w=1024&tbnid=9bF_gP-VQv82WM:&docid=6CJclJnMGko2MM&itg=1&ei=fsZZVq2jDoGBU8G4heAC&tbm=isch&iact=rc&uact=3&page=3&start=38&ndsp=23&ved=0ahUKEwit2o7otbPJAhWBwBQKHUFcASwQrQMI1QEwPA
 
+holz1.jpg:
+http://images.google.de/imgres?imgurl=http://www.torange.us/photo/1/16/The-texture-of-light-wood-1236345178_47.jpg&imgrefurl=http://www.torange.us/Backgrounds-textures/texture/The-texture-of-light-wood-654.html&h=1440&w=1920&tbnid=Y4yK0wTktBdYrM:&docid=M6a8oDk2UEXndM&ei=ByRbVu6IL4G2UpK0oLAC&tbm=isch&iact=rc&uact=3&page=2&start=19&ndsp=25&ved=0ahUKEwiuqJ6Ug7bJAhUBmxQKHRIaCCYQrQMIeDAd
+
+
 Modelle:
 
 
