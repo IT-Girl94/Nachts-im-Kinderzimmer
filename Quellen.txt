@@ -23,6 +23,9 @@ http://images.google.de/imgres?imgurl=https%3A%2F%2Ffarm1.staticflickr.com%2F120
 cloud.png:
 http://images.google.de/imgres?imgurl=http%3A%2F%2Fimg01.deviantart.net%2Fa63e%2Fi%2F2010%2F346%2Fa%2F5%2Fstorm_cloud_texture_by_skeptic_mousey-d34pxnr.png&imgrefurl=http%3A%2F%2Fskeptic-mousey.deviantart.com%2Fart%2FStorm-cloud-texture-189327015&h=506&w=900&tbnid=FD8YZPsnzwM5fM%3A&docid=HnfEz_UYu1CV8M&ei=vZNhVs7jNMeTacLTrOAP&tbm=isch&iact=rc&uact=3&dur=4977&page=1&start=0&ndsp=18&ved=0ahUKEwiOtu_EpsLJAhXHSRoKHcIpC_wQrQMIIzAC
 
+curtain.jpg:
+http://images.google.de/imgres?imgurl=https%3A%2F%2Ffarm3.staticflickr.com%2F2240%2F1573891272_112bcb51bd_o_d.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ffontplaydotcom%2F1573891272&h=768&w=1152&tbnid=9rgxc8xT3DfWrM%3A&docid=QoPDtHjpOuPCPM&ei=t8lhVr_LEoa3OvPZuuAP&tbm=isch&iact=rc&uact=3&dur=1564&page=1&start=0&ndsp=19&ved=0ahUKEwj_gsWB2sLJAhWGmw4KHfOsDvwQrQMIJjAD
+
 Modelle:
 
 
@@ -35,3 +38,4 @@ Tutorials:
 
 Vorhang:
 https://www.youtube.com/watch?v=Gu0XX_hHRH8
+
