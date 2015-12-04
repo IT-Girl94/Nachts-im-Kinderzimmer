@@ -14,8 +14,23 @@ http://images.google.de/imgres?imgurl=https://c1.staticflickr.com/7/6023/6006229
 holz1.jpg:
 http://images.google.de/imgres?imgurl=http://www.torange.us/photo/1/16/The-texture-of-light-wood-1236345178_47.jpg&imgrefurl=http://www.torange.us/Backgrounds-textures/texture/The-texture-of-light-wood-654.html&h=1440&w=1920&tbnid=Y4yK0wTktBdYrM:&docid=M6a8oDk2UEXndM&ei=ByRbVu6IL4G2UpK0oLAC&tbm=isch&iact=rc&uact=3&page=2&start=19&ndsp=25&ved=0ahUKEwiuqJ6Ug7bJAhUBmxQKHRIaCCYQrQMIeDAd
 
+<<<<<<< HEAD
 morgenhimmel1:
 http://www.provetextures.de/himmel-gaense-v-formation-blau-00270-zoom.php
+=======
+laminat.jpg:
+https://pixabay.com/p-314772/?no_redirect
+
+mond.jpg:
+http://images.google.de/imgres?imgurl=https%3A%2F%2Ffarm1.staticflickr.com%2F120%2F263411684_ea405ffa8f_o_d.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fjohnlemon%2F263411684&h=512&w=1024&tbnid=RwWakuTDqGyQOM%3A&docid=e51qf5r4Zr_spM&ei=f5JhVseKKYOGaLDbjsAK&tbm=isch&iact=rc&uact=3&dur=1692&page=1&start=0&ndsp=16&ved=0ahUKEwiHxpKtpcLJAhUDAxoKHbCtA6gQrQMIHTAA
+
+cloud.png:
+http://images.google.de/imgres?imgurl=http%3A%2F%2Fimg01.deviantart.net%2Fa63e%2Fi%2F2010%2F346%2Fa%2F5%2Fstorm_cloud_texture_by_skeptic_mousey-d34pxnr.png&imgrefurl=http%3A%2F%2Fskeptic-mousey.deviantart.com%2Fart%2FStorm-cloud-texture-189327015&h=506&w=900&tbnid=FD8YZPsnzwM5fM%3A&docid=HnfEz_UYu1CV8M&ei=vZNhVs7jNMeTacLTrOAP&tbm=isch&iact=rc&uact=3&dur=4977&page=1&start=0&ndsp=18&ved=0ahUKEwiOtu_EpsLJAhXHSRoKHcIpC_wQrQMIIzAC
+
+curtain.jpg:
+http://images.google.de/imgres?imgurl=https%3A%2F%2Ffarm3.staticflickr.com%2F2240%2F1573891272_112bcb51bd_o_d.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ffontplaydotcom%2F1573891272&h=768&w=1152&tbnid=9rgxc8xT3DfWrM%3A&docid=QoPDtHjpOuPCPM&ei=t8lhVr_LEoa3OvPZuuAP&tbm=isch&iact=rc&uact=3&dur=1564&page=1&start=0&ndsp=19&ved=0ahUKEwj_gsWB2sLJAhWGmw4KHfOsDvwQrQMIJjAD
+
+>>>>>>> dcceca20bdcdb8bf1b69f7eb69f5d66b228cb7de
 Modelle:
 
 Bettdecke1:
@@ -38,4 +53,12 @@ Kinderkopf modellieren : https://www.youtube.com/watch?v=0QT1GNMevfc (vh)
 
 Kissen modellieren: https://www.youtube.com/watch?v=5m51t85bHRU (vh)
 
+<<<<<<< HEAD
 Bettdecke modellieren: https://www.youtube.com/watch?v=uW5PasvZPFg (vh)
+=======
+Tutorials:
+
+Vorhang:
+https://www.youtube.com/watch?v=Gu0XX_hHRH8
+
+>>>>>>> dcceca20bdcdb8bf1b69f7eb69f5d66b228cb7de
